@@ -78,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+ 
+/*  Instead of having different class for all the benefits, I used the .benefits for all of them*/
 
 .benefits {
     margin-right: 20px;
